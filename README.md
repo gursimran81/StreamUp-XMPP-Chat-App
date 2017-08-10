@@ -10,4 +10,4 @@ StreamUP is the official messaging App of Guru Nanak Dev Engineering College. It
 login.
 
 # Project Report and Screenshots
-[a link](https://github.com/gursimran81/StreamUp-XMPP-Chat-App/blob/master/PROJECT%20REPORT%20FInal.pdf)
+[Screenshots](https://github.com/gursimran81/StreamUp-XMPP-Chat-App/blob/master/PROJECT%20REPORT%20FInal.pdf)
